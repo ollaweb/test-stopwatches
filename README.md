@@ -1,6 +1,16 @@
 # test-stopwatches
 
-This template should help get you started developing with Vue 3 in Vite.
+[Demo to test my project](https://olaawe.github.io/test-stopwatches/)
+
+## Review
+
+![Look at this lovely design](https://github.com/ollaweb/test-stopwatches/blob/main/test-stopwatches.jpg)
+
+## Description
+
+Small test project. SPA with stopwatches. You can create a stopwatch. You can run stopwatches, pause them and reset. Of course each separately.
+Options API.
+Use SASS (SCSS) to style items. Added TailwindCSS to reset default browsers styles.
 
 ## Recommended IDE Setup
 
