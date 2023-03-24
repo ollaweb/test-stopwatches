@@ -1,6 +1,6 @@
 # test-stopwatches
 
-[Demo to test my project](https://olaawe.github.io/test-stopwatches/)
+[Demo to test my project](https://ollaweb.github.io/test-stopwatches/)
 
 ## Review
 
