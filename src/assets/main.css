@@ -1,1 +1,9 @@
 @tailwind base;
+
+body {
+  background-color: #353638;
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-size: 22px;
+  color: #9e9e9e;
+  line-height: 100%;
+}
